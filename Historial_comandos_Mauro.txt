@@ -1,0 +1,78 @@
+    1  ls
+    2  cd mauro
+    3  mkdir repogit
+    4  ls
+    5  cd ..
+    6  ls
+    7  tree
+    8  sudo snap install tree
+    9  ls
+   10  tree
+   11  sudo fdisk -l
+   12  exit
+   13  cd mauro
+   14  ls
+   15  cad repogit/
+   16  cd repogit/
+   17  ls
+   18  cd /
+   19  ls
+   20  fdisk -l
+   21  sudo fdisk -l
+   22  cd
+   23  ls
+   24  cd repogit/
+   25  ls
+   26  cd UTNFRA_SO_1P2C_2024_SOSA/
+   27  ls
+   28  vim README.md 
+   29  cd RTA_SCRIPT_Examen_20241006/
+   30  ls
+   31  vim Punto_A.sh 
+   32  chmod 765 Punto_A.sh 
+   33  ls
+   34  vim Punto_B.sh 
+   35  chmod 765 Punto_B.sh 
+   36  ls
+   37  vim Punto_C.sh 
+   38  chmod 765 Punto_c.sh 
+   39  ls
+   40  vim Punto_C.sh 
+   41  chmod 765 Punto_C.sh 
+   42  ls
+   43  vim Punto_D.sh 
+   44  chmod 765 Punto_D.sh 
+   45  ls
+   46  vim Punto_E.sh 
+   47  chmod 765 Punto_E.sh 
+   48  ls
+   49  vim Punto_F.sh 
+   50  chmod 765 Punto_F.sh 
+   51  ls
+   52  history -a
+   53  cd ..
+   54  ls
+   55  cp HOME/.bash_history .
+   56  cp $HOME/.bash_history .
+   57  ls
+   58  cd ..
+   59  ls
+   60  cd ..
+   61  ls
+   62  cd
+   63  ls
+   64  cd repogit/UTNFRA_SO_1P2C_2024_SOSA/
+   65  ls
+   66  cat $HOME/.bash_history > Historial_comandos_<Mauro>.txt
+   67  exit
+   68  ls
+   69  cd
+   70  ls
+   71  history
+   72  ls
+   73  cd repogit/UTNFRA_SO_1P2C_2024_SOSA/
+   74  ls
+   75  cat Historial_comandos_ 
+   76  rm -r Historial_comandos_ 
+   77  ls
+   78  history > Historial_comandos_Mauro.txt
